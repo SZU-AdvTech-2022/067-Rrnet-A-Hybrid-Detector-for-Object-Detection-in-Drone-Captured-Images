@@ -1,0 +1,6 @@
+@inproceedings{chen2019rrnet,
+  title={Rrnet: A Hybrid Detector for Object Detection in Drone-Captured Images},
+  author={Chen, Changrui and Zhang, Yu and Lv, Qingxuan and Wei, Shuo and Wang, Xiaorui and Sun, Xin and Dong, Junyu},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops},
+  year={2019}
+}
